@@ -79,7 +79,7 @@ git clone https://github.com/YuGe-Git/chatheadsYG-Minecraft1.12.2.git
 ## 🙏 鸣谢
 
 - Minecraft Forge 团队
-- 原版Chat Heads [@github.com/dzwdz/chat_heads]([https://github.com/YuGe-Git](https://github.com/dzwdz/chat_heads))模组的创意启发
+- 原版 [Chat Heads](https://github.com/dzwdz/chat_heads) 模组的创意启发
 
 ---
 
